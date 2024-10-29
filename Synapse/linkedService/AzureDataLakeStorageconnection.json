@@ -1,0 +1,10 @@
+{
+	"name": "AzureDataLakeStorageconnection",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://fintechproject.dfs.core.windows.net/"
+		}
+	}
+}
